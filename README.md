@@ -1,5 +1,5 @@
 
-  # ReadMe Generator 
+  # Readme Generator
  
 
   # table of Contents:
@@ -12,28 +12,33 @@
   - [Questions](#questions)
   
   ##description:
-    this project is used to genterate a readme
+    This is using node.js to run an inquirer promt to create a readmefile
 
     ##installation:
-    none
+    fs
 
     ##usage:
-    used to generate a readme 
+    it would be used to create a readme for futrue projects
 
     ##license:
     GitHub
 
     ##contribution:
-    me
+    No one
 
     ##test:
-    none
+    none 
 
-    ##github:  
-    https://github.com/garrettj94/, garrettjackson43@gmail.com
+    ##github/email:  
+    https://github.com/garrettj94, 
+    
+    garrettjackson43@gmail.com
+
+
+    [![Watch the video]](https://drive.google.com/file/d/1zdqxYXbgPpiwJn8op2tHgCmQA2XvRAUq/view)
+    
   
-    ##email:
-    https://github.com/garrettj94/, garrettjackson43@gmail.com
+    
 
 
  
